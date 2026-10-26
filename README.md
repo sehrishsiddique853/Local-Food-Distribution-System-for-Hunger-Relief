@@ -4,6 +4,9 @@ FoodBridge is a full stack food donation coordination platform that connects don
 
 The project is built as a practical MERN-style application with role-based dashboards for donors, NGOs, and admins. It focuses on reducing food waste by making surplus food easier to post, request, approve, collect, and distribute.
 
+## Live Demo
+link : www.foodbridge.tech
+
 ## Features
 
 - Donor registration, login, profile management, and donation posting
