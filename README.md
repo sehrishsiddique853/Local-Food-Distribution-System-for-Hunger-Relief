@@ -8,7 +8,7 @@ The application provides separate role-based workflows for **Donors, NGOs, and A
 
 - **Live Application:** https://www.foodbridge.tech
 - **GitHub Repository:** https://github.com/sehrishsiddique853/local-food-charity-system
-- **Project Report and Documentation:** Add your publicly accessible report PDF link here.
+- **Project Report and Documentation:** https://www.sehrishsiddique.online/foodbridge-documentation.pdf
 
 ## Key Features
 
